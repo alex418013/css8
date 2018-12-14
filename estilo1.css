@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* Creado por Alejandro Sánchez Folgado */
+body{ 
+    background-color: rgb(45, 134, 82);
+    font-size: 150%;
+    font-family: sans-serif;
+}
+h1{
+
+}
+p.intro{
+    border: black 10px solid;
+    border-radius: 25px;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 20px;
+    background-color: white;
+}
+p.estilo1{
+    background-color: chocolate;
+    color: white;
+    border: brown 20px solid;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin-right: 50%;
+    padding: 10px;
+  
+}
+p.estilo2{
+    background-color: hsl(34, 50%, 45%);
+    color: white;
+    border: hsl(34, 100%, 25%) 15px solid;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-left: 50%;
+    padding: 5px;
+  
+}
+p.estilo3{
+    background-color: chocolate;
+    color: white;
+    border: hsl(207, 50%, 45%) 5px dashed;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 20px;
+}
