@@ -8,7 +8,7 @@ body{
 h1{
 
 }
-p.1{
+p.p1{
     border: black 10px solid;
     border-radius: 25px;
     margin-left: 25%;
@@ -16,7 +16,7 @@ p.1{
     padding: 20px;
     background-color: white;
 }
-p.2{
+p.p2{
     background-color: chocolate;
     color: white;
     border: brown 20px solid;
@@ -26,7 +26,7 @@ p.2{
     padding: 10px;
   
 }
-p.3{
+p.p3{
     background-color: hsl(34, 50%, 45%);
     color: white;
     border: hsl(34, 100%, 25%) 15px solid;
@@ -36,7 +36,7 @@ p.3{
     padding: 5px;
   
 }
-p.4{
+p.p4{
     background-color: chocolate;
     color: white;
     border: hsl(207, 50%, 45%) 5px dashed;
