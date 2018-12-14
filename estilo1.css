@@ -6,7 +6,10 @@ body{
     font-family: sans-serif;
 }
 h1{
-
+    color: white;
+    text-align: left;
+    text-transform: uppercase;
+    text-shadow: black 5px 5px;
 }
 p.p1{
     border: black 10px solid;
