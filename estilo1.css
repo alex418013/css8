@@ -20,9 +20,9 @@ p.p1{
     background-color: white;
 }
 p.p2{
-    background-color: chocolate;
+    background-color: #AC5A39;
     color: white;
-    border: brown 20px solid;
+    border: #802400 20px solid;
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
     margin-right: 50%;
@@ -40,7 +40,7 @@ p.p3{
   
 }
 p.p4{
-    background-color: chocolate;
+    background-color: blue;
     color: white;
     border: hsl(207, 50%, 45%) 5px dashed;
     margin-left: 25%;
